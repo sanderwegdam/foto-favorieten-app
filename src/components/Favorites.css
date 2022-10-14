@@ -1,0 +1,52 @@
+.favorites {
+  background: rgba(0, 0, 0, 0.1);
+  color: black;
+  padding: 1rem 1rem;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+.favorites-content {
+  width: 100%;
+  height: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+.favorites-container {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+.favorite-item {
+  text-align: center;
+  border: 1px solid rgba(0, 0, 0, 0.041);
+  border-radius: 10px;
+  height: 160px;
+}
+.favorites-img {
+  width: 100%;
+  border-radius: 10%;
+  height: 120px;
+  cursor: pointer;
+}
+.remove-btn {
+  margin-top: 0.25rem;
+  background: transparent;
+  padding: 5px;
+  width: 120px;
+  border-radius: 10px;
+  color: black;
+  border: transparent;
+  cursor: pointer;
+  font-size: 1rem;
+}
+.remove-btn:hover {
+  color: white;
+  background-color: black;
+}
+
+@media only screen and (max-width: 600px) {
+  .favorites-container {
+    display: inline-flex;
+    justify-content: center;
+  }
+}
