@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6121e935b4e15adeace4bc8f29050708",
+    "revision": "e0fdb1b55abdd25e0f0703a68de2ae7d",
     "url": "/foto-favorieten-app/index.html"
   },
   {
