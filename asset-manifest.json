@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/foto-favorieten-app/static/css/main.ed5a4474.chunk.css",
+    "main.js": "/foto-favorieten-app/static/js/main.5c0ef0be.chunk.js",
+    "main.js.map": "/foto-favorieten-app/static/js/main.5c0ef0be.chunk.js.map",
+    "runtime-main.js": "/foto-favorieten-app/static/js/runtime-main.c97b49d4.js",
+    "runtime-main.js.map": "/foto-favorieten-app/static/js/runtime-main.c97b49d4.js.map",
+    "static/js/2.1b19d11c.chunk.js": "/foto-favorieten-app/static/js/2.1b19d11c.chunk.js",
+    "static/js/2.1b19d11c.chunk.js.map": "/foto-favorieten-app/static/js/2.1b19d11c.chunk.js.map",
+    "index.html": "/foto-favorieten-app/index.html",
+    "precache-manifest.3df9c64140f5d33ae1af0dab0fabc946.js": "/foto-favorieten-app/precache-manifest.3df9c64140f5d33ae1af0dab0fabc946.js",
+    "service-worker.js": "/foto-favorieten-app/service-worker.js",
+    "static/css/main.ed5a4474.chunk.css.map": "/foto-favorieten-app/static/css/main.ed5a4474.chunk.css.map",
+    "static/js/2.1b19d11c.chunk.js.LICENSE.txt": "/foto-favorieten-app/static/js/2.1b19d11c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c97b49d4.js",
+    "static/js/2.1b19d11c.chunk.js",
+    "static/css/main.ed5a4474.chunk.css",
+    "static/js/main.5c0ef0be.chunk.js"
+  ]
+}
