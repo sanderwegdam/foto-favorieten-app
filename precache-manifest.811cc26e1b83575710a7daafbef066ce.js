@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40afe537c6ad6293080f7da08972f914",
+    "revision": "30b441bcac88d86c71708b0a1e3fe942",
     "url": "/foto-favorieten-app/index.html"
   },
   {
-    "revision": "9b88d03ac80bea2c58f9",
+    "revision": "f56d71efc0c27ae297b7",
     "url": "/foto-favorieten-app/static/css/main.f90e5b29.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foto-favorieten-app/static/js/2.2c257ff4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9b88d03ac80bea2c58f9",
-    "url": "/foto-favorieten-app/static/js/main.da7c4892.chunk.js"
+    "revision": "f56d71efc0c27ae297b7",
+    "url": "/foto-favorieten-app/static/js/main.a29bcd3d.chunk.js"
   },
   {
     "revision": "fee73f973265ccbb17b0",
