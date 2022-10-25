@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/foto-favorieten-app/precache-manifest.04a3a63d22c9085d4a363edd4fb40dbd.js"
+  "/foto-favorieten-app/precache-manifest.cfbd82674f124180dc3253fa2778e10b.js"
 );
 
 self.addEventListener('message', (event) => {
