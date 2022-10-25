@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/foto-favorieten-app/static/css/main.22ba1f9f.chunk.css",
-    "main.js": "/foto-favorieten-app/static/js/main.50a0bb83.chunk.js",
-    "main.js.map": "/foto-favorieten-app/static/js/main.50a0bb83.chunk.js.map",
+    "main.css": "/foto-favorieten-app/static/css/main.cdf883b0.chunk.css",
+    "main.js": "/foto-favorieten-app/static/js/main.73889b1c.chunk.js",
+    "main.js.map": "/foto-favorieten-app/static/js/main.73889b1c.chunk.js.map",
     "runtime-main.js": "/foto-favorieten-app/static/js/runtime-main.c97b49d4.js",
     "runtime-main.js.map": "/foto-favorieten-app/static/js/runtime-main.c97b49d4.js.map",
     "static/js/2.2c257ff4.chunk.js": "/foto-favorieten-app/static/js/2.2c257ff4.chunk.js",
     "static/js/2.2c257ff4.chunk.js.map": "/foto-favorieten-app/static/js/2.2c257ff4.chunk.js.map",
     "index.html": "/foto-favorieten-app/index.html",
-    "precache-manifest.33cc0675a8006f1b54b09f9c7123b665.js": "/foto-favorieten-app/precache-manifest.33cc0675a8006f1b54b09f9c7123b665.js",
+    "precache-manifest.08432e3f4ee25ea11f8e19093d397919.js": "/foto-favorieten-app/precache-manifest.08432e3f4ee25ea11f8e19093d397919.js",
     "service-worker.js": "/foto-favorieten-app/service-worker.js",
-    "static/css/main.22ba1f9f.chunk.css.map": "/foto-favorieten-app/static/css/main.22ba1f9f.chunk.css.map",
+    "static/css/main.cdf883b0.chunk.css.map": "/foto-favorieten-app/static/css/main.cdf883b0.chunk.css.map",
     "static/js/2.2c257ff4.chunk.js.LICENSE.txt": "/foto-favorieten-app/static/js/2.2c257ff4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c97b49d4.js",
     "static/js/2.2c257ff4.chunk.js",
-    "static/css/main.22ba1f9f.chunk.css",
-    "static/js/main.50a0bb83.chunk.js"
+    "static/css/main.cdf883b0.chunk.css",
+    "static/js/main.73889b1c.chunk.js"
   ]
 }
