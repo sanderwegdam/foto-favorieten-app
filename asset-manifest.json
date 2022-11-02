@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/foto-favorieten-app/static/css/main.a9fe25e7.chunk.css",
-    "main.js": "/foto-favorieten-app/static/js/main.346404b0.chunk.js",
-    "main.js.map": "/foto-favorieten-app/static/js/main.346404b0.chunk.js.map",
+    "main.js": "/foto-favorieten-app/static/js/main.1b88cdbf.chunk.js",
+    "main.js.map": "/foto-favorieten-app/static/js/main.1b88cdbf.chunk.js.map",
     "runtime-main.js": "/foto-favorieten-app/static/js/runtime-main.c97b49d4.js",
     "runtime-main.js.map": "/foto-favorieten-app/static/js/runtime-main.c97b49d4.js.map",
     "static/js/2.08aa6007.chunk.js": "/foto-favorieten-app/static/js/2.08aa6007.chunk.js",
     "static/js/2.08aa6007.chunk.js.map": "/foto-favorieten-app/static/js/2.08aa6007.chunk.js.map",
     "index.html": "/foto-favorieten-app/index.html",
-    "precache-manifest.c016acda9224cbbd8de88509e186f496.js": "/foto-favorieten-app/precache-manifest.c016acda9224cbbd8de88509e186f496.js",
+    "precache-manifest.2adffb06a87e5ed5444fd32097a348ba.js": "/foto-favorieten-app/precache-manifest.2adffb06a87e5ed5444fd32097a348ba.js",
     "service-worker.js": "/foto-favorieten-app/service-worker.js",
     "static/css/main.a9fe25e7.chunk.css.map": "/foto-favorieten-app/static/css/main.a9fe25e7.chunk.css.map",
     "static/js/2.08aa6007.chunk.js.LICENSE.txt": "/foto-favorieten-app/static/js/2.08aa6007.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c97b49d4.js",
     "static/js/2.08aa6007.chunk.js",
     "static/css/main.a9fe25e7.chunk.css",
-    "static/js/main.346404b0.chunk.js"
+    "static/js/main.1b88cdbf.chunk.js"
   ]
 }
